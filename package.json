@@ -1,0 +1,23 @@
+{
+  "name": "auotPush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hq229075284/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hq229075284/git-test/issues"
+  },
+  "homepage": "https://github.com/hq229075284/git-test#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
