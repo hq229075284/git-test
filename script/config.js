@@ -3,5 +3,6 @@ module.exports={
     // mergeBranch: 'feature-2037',
     devBranch: 'master',
     mergeBranch: 'merge_branch',
-    remoteRepositoryName: 'origin'
+    remoteRepositoryName: 'origin',
+    bashPath:"C:\\Program Files\\Git\\git-bash.exe"
 }
